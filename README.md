@@ -27,7 +27,7 @@
 | 1 | `module-1-titanic` | EDA + бинарная классификация | ✅ Готово | [Открыть](./module-1-titanic/) |
 | 2 | `module-2-regression` | Предобработка + регрессия | ✅ Готово | [Открыть](./module-2-house-prices/) |
 | 3 | `module-3-ensembles` | Ансамблевые методы | ✅ Готово | [Открыть](./module-module-3-churn/) |
-| 4 | `module-4-features` | Инженерия признаков | ⏳ Ожидается | — |
+| 4 | `module-4-features` | Инженерия признаков | ✅ Готово | [Открыть](./module-module-3-features/) |
 | 5 | `module-5-timeseries` | Временные ряды | ⏳ Ожидается | — |
 | 6 | `module-6-neural` | Нейросетевые архитектуры | ⏳ Ожидается | — |
 | 7 | `module-7-mlops` | MLOps и деплой | ⏳ Ожидается | — |
@@ -41,7 +41,7 @@
 | 1 | Titanic (бинарная классификация) | Logistic Regression | **0.849** | 0.729 | 2026-09-29 |
 | 2 | House Prices (регрессия) | Lasso | R² = **0.91** | RMSE = $25 000 | 2026-11-03 |
 | 3 | Customer Churn | LightGBM | **0.84** | 0.83 | 2026-11-03 |
-| 4 | — | — | — | — | — |
+| 4 | Online Shoppers | LightGBM | **0.92** | 0.65 | 2026-11-03 |
 | 5 | — | — | — | — | — |
 | 6 | — | — | — | — | — |
 | 7 | — | — | — | — | — |
