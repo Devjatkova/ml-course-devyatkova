@@ -26,8 +26,8 @@
 |---:|---|---|---|---|
 | 1 | `module-1-titanic` | EDA + бинарная классификация | ✅ Готово | [Открыть](./module-1-titanic/) |
 | 2 | `module-2-regression` | Предобработка + регрессия | ✅ Готово | [Открыть](./module-2-house-prices/) |
-| 3 | `module-3-ensembles` | Ансамблевые методы | ✅ Готово | [Открыть](./module-module-3-churn/) |
-| 4 | `module-4-features` | Инженерия признаков | ✅ Готово | [Открыть](./module-module-3-features/) |
+| 3 | `module-3-ensembles` | Ансамблевые методы | ✅ Готово | [Открыть](./module-3-churn/) |
+| 4 | `module-4-features` | Инженерия признаков | ✅ Готово | [Открыть](./module-4-features/) |
 | 5 | `module-5-timeseries` | Временные ряды | ⏳ Ожидается | — |
 | 6 | `module-6-neural` | Нейросетевые архитектуры | ⏳ Ожидается | — |
 | 7 | `module-7-mlops` | MLOps и деплой | ⏳ Ожидается | — |
